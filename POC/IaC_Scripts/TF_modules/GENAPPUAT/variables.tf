@@ -1,0 +1,2 @@
+variable "Conuser" {}
+variable "Conpassword" {}

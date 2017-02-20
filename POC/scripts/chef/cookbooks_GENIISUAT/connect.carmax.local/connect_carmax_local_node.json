@@ -1,0 +1,3 @@
+{
+  "run_list": [ "recipe[connect.acme.local]" ]
+}
